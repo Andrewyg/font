@@ -1,0 +1,10 @@
+in head:
+<link href="https://fonts.googleapis.com/css?family=Aladin|Indie+Flower|Italianno|Niconne|Tangerine&amp;subset=latin-ext" rel="stylesheet">
+
+then css:
+
+font-family: 'Niconne', cursive;
+font-family: 'Tangerine', cursive;
+font-family: 'Italianno', cursive;
+font-family: 'Aladin', cursive;
+font-family: 'Indie Flower', cursive;
